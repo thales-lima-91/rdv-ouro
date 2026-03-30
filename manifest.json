@@ -1,9 +1,9 @@
 {
-  "name": "RDV Ouro — Ouro Safra",
+  "name": "RDV Ouro",
   "short_name": "RDV Ouro",
-  "description": "Relatório de Despesas e Viagens — Ouro Safra",
-  "start_url": "https://thales-lima-91.github.io/RDV-Ouro/rdv-ouro.html",
-  "scope": "https://thales-lima-91.github.io/RDV-Ouro/",
+  "description": "Relatorio de Despesas e Viagens - Ouro Safra",
+  "start_url": "/RDV-Ouro/rdv-ouro.html",
+  "scope": "/RDV-Ouro/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#F5C200",
@@ -11,13 +11,13 @@
   "lang": "pt-BR",
   "icons": [
     {
-      "src": "https://thales-lima-91.github.io/RDV-Ouro/icon-192.png",
+      "src": "/RDV-Ouro/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://thales-lima-91.github.io/RDV-Ouro/icon-512.png",
+      "src": "/RDV-Ouro/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
